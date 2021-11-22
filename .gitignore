@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # iOS file
-.MS_Store
+.DS_Store
